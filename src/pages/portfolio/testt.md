@@ -6,7 +6,7 @@ date: '2021-01-24'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 template: project
-thumb_image: images/13.jpg
+thumb_image: images/2_thumb.jpg
 image: images/12.jpg
 ---
 ## Lorem ipsum
