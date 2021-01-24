@@ -7,7 +7,7 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 template: project
 image: images/10.jpg
-thumb_image: images/12.jpg
+thumb_image: images/13.jpg
 ---
 ## Lorem ipsum
 
